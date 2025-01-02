@@ -11,7 +11,7 @@
   <dependencies>
     <dependency>
       <groupId>com.rpc</groupId>
-      <artifactId>hch-rpc-easy</artifactId>
+      <artifactId>hch-rpc-core</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>

@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hch-rpc-easy" />
-        <module name="hch-rpc-core" />
+        <module name="hch-rpc-easy (1)" />
         <module name="examle-provider" />
         <module name="example-consumer" />
         <module name="example-common" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hch-rpc-core" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
